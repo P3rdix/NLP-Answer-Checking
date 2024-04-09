@@ -163,3 +163,5 @@ cython_debug/
 *.txt
 *.json
 *.hd5
+fastext_data.txt
+options.json
